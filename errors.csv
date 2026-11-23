@@ -1,0 +1,21 @@
+row_id,value,column,category
+safeguard:test:1786,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:1035,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:1141,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:893,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:196,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:1123,baseline,safeguard-test,long passage prompt
+safeguard:test:1910,baseline,safeguard-test,short everyday question
+safeguard:test:1132,baseline,safeguard-test,long passage prompt
+safeguard:test:1557,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:337,baseline,safeguard-test,task-formatted benign prompt
+safeguard:test:242,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:525,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:163,baseline,safeguard-test,fake-news request
+safeguard:test:1742,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:5,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:658,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:589,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:603,baseline,safeguard-test,fake-news request
+safeguard:test:1778,baseline,safeguard-test,demand for confidential data or funds
+safeguard:test:1292,baseline,safeguard-test,demand for confidential data or funds
